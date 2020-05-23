@@ -10,7 +10,7 @@ class counter extends Component {
     const style = {
       border: '1px solid #eee',
       margin: '2%',
-      fontSize: '20px',
+      fontSize: '19px',
       width: '20%',
       cursor: 'pointer',
       backgroundColor: 'salmon'
